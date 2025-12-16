@@ -16,7 +16,7 @@ A simple console-based Weather Application built using Python that displays real
 - JSON data handling
 
 ## [Terminal Output]
-(terminal_output.png)
+https://github.com/anshulverma004/weather-app-python/blob/main/Screenshot%202025-12-13%20220245.png
 
 ## How to Run
 1. Clone the repository
